@@ -1,0 +1,22 @@
+# Frontend
+kanun-frontend/node_modules/
+kanun-frontend/dist/
+kanun-frontend/.env
+kanun-frontend/.env.local
+kanun-frontend/.env.production
+
+# Backend
+kanun-backend/target/
+kanun-backend/.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
